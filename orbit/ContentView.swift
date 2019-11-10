@@ -47,7 +47,7 @@ struct ARViewContainer: UIViewRepresentable {
               print("Animation")
             }
         
-        ///
+        ////
         
         let asmeAnchor = try! Experience.loadASME()
           arView.scene.anchors.append(asmeAnchor)

@@ -1,7 +1,11 @@
 # orbit
 A IOS RealityKit application to improve Student Engagement at UTDallas
 
+1st Place - HackUTD VI (SG Challenge)
+
 [Check out our featured news article on the Mercury!](https://utdmercury.com/student-app-helps-keep-track-of-utd-events/)
+
+[![Check out the demo](https://img.youtube.com/vi/T4JSj-o5Cog/default.jpg)](https://youtu.be/T4JSj-o5Cog)
 
 ## Inspiration
 After the Founder’s Computer Lab closed last night at 7:45pm, we were forced to work in a hallway of the Founder’s building. In the hallway, we saw a large bulletin board filled to the brim with flyers and pamphlets. We then brainstormed for ideas that would encourage student engagement by consolidating the functionality of the bulletin board in an app.

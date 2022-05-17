@@ -1,5 +1,6 @@
 # orbit
 A IOS RealityKit application to improve Student Engagement at UTDallas
+
 [Check out our featured news article on the Mercury!](https://utdmercury.com/student-app-helps-keep-track-of-utd-events/)
 
 ## Inspiration
